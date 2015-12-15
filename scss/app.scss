@@ -1,0 +1,56 @@
+@import "settings";
+@import "foundation";
+
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+    background:#0a8ab9;
+}
+
+.top1{
+    font-size: 20px;
+    text-align: center;
+    margin-top: -1px;
+}
+
+
+.intro {
+    background-color: blue;
+     text-align: center;
+    height:25px;
+}
+
+.first-col{
+    font-family: "palatino", palatino, sans-serif;
+    outline: 2px solid black;
+    height: 420px;
+}
+
+
+.second-col {
+    font-family: "palatino";
+    height: 420px;
+    outline: 2px solid black;
+}
+
+
+.menuitems {
+     position: fixed;
+     width:115px;
+     height: 52px;
+     top:50%;
+     left:50%;
+     margin:-50px 0 0 -80px;
+     background:#0a8ab9;
+}
+
+.center {
+    background-color: white;
+    font-family: "palatino", sans-serif;
+    text-align: center; 
+    margin-top: 40px;
+}
+
+
+#canvasholder {
+    margin-top: 750px;
+}
